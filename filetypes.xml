@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="mygestures" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping pattern="arrays" type="XML" />
+    </extensionMap>
+  </component>
+</application>
